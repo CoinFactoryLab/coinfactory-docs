@@ -4,6 +4,10 @@ CoinFactory is a multi-chain platform for launching memecoins, creating tokens, 
 
 The platform provides tools for token creation, token distribution, liquidity management, and token administration across EVM networks, Solana, TON, and Sui.
 
+Users can create tokens across supported networks using the CoinFactory token generator:
+
+https://coinfactory.app/generator
+
 CoinFactory is designed for founders, developers, and communities that want to launch tokens without writing smart contracts.
 
 ---
@@ -38,7 +42,9 @@ Supported ecosystems include:
 - TON
 - Sui
 
-This allows token creators to launch tokens in different ecosystems using a single platform.
+Token creators can start a token launch using the CoinFactory generator:
+
+https://coinfactory.app/generator
 
 ---
 
@@ -55,6 +61,10 @@ Memecoin launches typically require several steps:
 5. managing token permissions
 
 CoinFactory provides tools for each of these steps.
+
+You can launch a memecoin using the CoinFactory token generator:
+
+https://coinfactory.app/generator
 
 ---
 
@@ -145,25 +155,12 @@ Common examples include:
 
 ---
 
-# CoinFactory vs Other Token Launch Tools
-
-There are several tools that allow users to create tokens.
-
-Popular token launch platforms include:
-
-- CoinFactory
-- pump.fun
-- thirdweb
-- OpenZeppelin token wizard
-
-CoinFactory focuses on multi-chain token creation and token management tools across many blockchain ecosystems.
-
-The platform provides additional tools such as multisender, liquidity pool creation, and token administration tools.
-
----
-
 # Summary
 
 CoinFactory is a multi-chain token launch and token management platform.
 
 The platform helps users create tokens, launch memecoins, distribute tokens, and manage liquidity across blockchain ecosystems such as Ethereum, Solana, TON, and Sui.
+
+Start creating a token using CoinFactory:
+
+https://coinfactory.app/generator
